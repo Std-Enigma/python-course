@@ -1,0 +1,113 @@
+* /*Python-Programming-Course*/
+** *Data Types*
+   - /String/
+   - /Integer/
+   - /Float/
+   - /Boolean/
+   - /List/
+   - /Tuple/
+   - /Dictionary/
+
+** *Operators*
+   - /Arithmetic/
+   -- Addition *(\+)*
+   -- Subtraction *(\-)*
+   -- Mutliplication *(\*)*
+   -- Division *(\/)*
+   -- Floor Division *(\/\/)*
+   -- Exponentiation *(\*\*)*
+
+   - /Comparison/
+   -- Equality *(\=\=)*
+   -- Inequality *(\!\=)*
+   -- Greater than *(\>)*
+   -- Greater than or Equal *(\>\=)*
+   -- Less than *(\<)*
+   -- Less than or Equal *(\<\=)*
+
+   - /Logical/
+   -- And *(\a\n\d)*
+   -- Or *(\o\r)*
+   -- Not *(\n\o\t)*
+
+   - /Bitwise/
+   -- AND *(\&)*
+   -- OR *(\|)*
+   -- XOR *(\^)*
+   -- NOT *(\~)*
+   -- RIGHT SHIFT *(\>\>)*
+   -- LEFT SHIFT *(\<\<)*
+
+   - /Assignment/
+   -- Equals *(\=)*
+   -- Add and Assign *(\+\=)*
+   -- Subtract and Assign *(\-\=)*
+   -- Multiply and Assign *(\*\=)*
+   -- Divide and Assign *(\/\=)*
+   -- Floor Divide and Assign *(\/\/\=)*
+   -- Modulus and Assign *(\%\=)*
+   -- Exponent and Assign *(\*\*\=)*
+   -- Bitwise AND and Assign *(\&\=)*
+   -- Bitwise OR and Assign *(\|\=)*
+   -- Bitwise XOR and Assign *(\^\=)*
+   -- Right Shift and Assign *(\>\>\=)*
+   -- Left Shift and Assign *(\<\<\=)*
+
+   - /Identity/
+   -- Is *(\i\s)*
+   -- Is Not *(\i\s \n\o\t)*
+
+   - /Membership/
+   -- In *(\i\n)*
+   -- Not In *(\n\o\t \i\n)*
+
+** *Control Flow Statements*
+   - /If Statement/
+   - /Else Statement/
+   - /Elif Statement/
+   - /While Loop/
+   - /For Loop/
+   - /Break Statement/
+   - /Continue Statement/
+   - /Pass Statement/
+
+** *Functions*
+   - /Defining a Function/
+   - /Arguments and Parameters/
+   - /Return Statement/
+   - /Lambda Functions/
+   - /Recursion/
+
+** *Classes and Objects*
+   - /Class Definition/
+   - /Creating an Object/
+   - /Attributes and Methods/
+   - /Inheritance/
+   - /Polymorphism/
+   - /Encapsulation/
+   - /Abstraction/
+
+** *Modules and Packages*
+   - /Importing Modules/
+   - /Creating a Module/
+   - /Using Packages/
+
+** *File Handling*
+   - /Opening Files/
+   - /Reading Files/
+   - /Writing to Files/
+   - /Appending to Files/
+   - /Closing Files/
+   - /Handling Exceptions in File Operations/
+
+** *Error Handling*
+   - /Try and Except Block/
+   - /Finally Block/
+   - /Raising Exceptions/
+   - /Custom Exceptions/
+
+** *Miscellaneous*
+   - /List Comprehensions/
+   - /Generators/
+   - /Decorators/
+   - /Global and Local Variables/
