@@ -1,0 +1,156 @@
+* Python Programming
+** {./Basics}[Baiscs]
+*** Data Types and Variables
+    - Primitive data types: integers, floats, strings, booleans
+    - Variables and naming conventions
+    - User input and output (print, input)
+
+*** Operators and Expressions
+    - Arithmetic, comparison, and logical operators
+    - Using expressions in programs
+    - Precedence of operators
+
+*** Strings and String Manipulation
+    - String creation, indexing, slicing
+    - Common string methods (lower, upper, replace, find, etc.)
+    - String formatting (f-strings)
+
+** {./Control_Flow}[Control Flow]
+*** Conditional Statements
+    - if, elif, else statements
+    - Nested conditionals
+
+*** Loops - for and while
+    - Introduction to loops
+    - Using for loops and range()
+    - Using while loops
+    - Loop control (break, continue)
+
+*** Nested Loops and Pattern Printing
+    - Working with nested loops
+    - Common patterns with loops (triangle, pyramid)
+    - Practice problems
+
+**  {./Functions_Scope}[Functions and Scope]
+*** Functions - Basics
+    - Defining and calling functions
+    - Function arguments and return values
+    - Positional and keyword arguments
+
+*** Functions - Advanced Concepts
+    - Default parameters
+    - Recursive functions
+    - Anonymous functions (lambda)
+
+*** Scope and Lifetime of Variables
+    - Local vs global scope
+    - The global keyword
+    - Variable lifetime in functions
+
+** {./Data_Structures}[Data Structures]
+*** Lists
+    - Creating and modifying lists
+    - List methods (append, remove, pop, etc.)
+    - List slicing and indexing
+
+*** Tuples
+    - Tuple creation and immutability
+    - Tuple packing and unpacking
+    - When to use tuples over lists
+
+*** Sets
+    - Set operations (union, intersection, difference)
+    - Removing duplicates with sets
+    - Common use cases
+
+*** Dictionaries
+    - Creating dictionaries
+    - Accessing, modifying, and deleting dictionary elements
+    - Dictionary methods
+
+*** Advanced List and Dictionary Comprehensions
+    - List comprehension
+    - Dictionary comprehension
+    - Nested comprehensions
+
+*** Summary and Practice Problems
+    - Summary of data structures
+    - Hands-on exercises to integrate all concepts
+
+** {./File_Handling/}[File Handling and Error Handling]
+*** Working with Files
+    - Reading from and writing to files
+    - File modes (r, w, a, r+)
+    - Using with to handle files
+
+*** Error and Exception Handling
+    - Introduction to exceptions
+    - Try, except, finally blocks
+    - Raising exceptions
+
+*** Advanced Exception Handling
+    - Multiple exceptions
+    - Custom exceptions
+    - Best practices for error handling
+
+*** Practice with File and Exception Handling
+    - Hands-on exercises to solidify concepts
+
+** {./OOP/}[Object-Oriented Programming]
+*** Introduction to OOP Concepts
+    - Classes and objects
+    - Defining a class and creating objects
+    - Instance variables and methods
+
+*** Constructors and Destructors
+    - The __init__ method
+    - Object lifecycle
+    - The __del__ method
+
+*** Inheritance and Polymorphism
+    - Understanding inheritance
+    - The super() function
+    - Method overriding
+
+*** Encapsulation and Data Hiding
+    - Private variables and methods
+    - Using getter and setter methods
+
+*** Dunder (Magic) Methods and Operator Overloading
+    - Understanding dunder methods (__str__, __len__, etc.)
+    - Operator overloading in Python
+
+*** Practice with OOP
+    - Real-world scenarios for OOP
+    - Build a small project using classes
+
+** Modules, Libraries, and Packages
+*** Modules and Packages
+    - Importing modules and standard libraries
+    - Creating and using your own modules
+    - Introduction to pip and third-party libraries
+
+*** Popular Libraries in Python
+    - Overview of essential libraries: math, random, datetime
+    - Introduction to numpy and pandas for data manipulation
+    - Installing and using libraries with pip
+
+*** Practice with Libraries
+    - Solving problems using external libraries
+    - Mini-project: Data analysis using pandas
+
+** Final Project and Advanced Concepts
+*** Advanced Topics (Optional)
+    - List slicing in depth
+    - Generators and iterators
+    - Decorators and context managers
+
+*** Project Development (Part 1)
+    - Introduction to the final project
+    - Planning the project: setting goals, features
+    - Start implementing the project
+
+*** Project Development (Part 2) & Review
+    - Finalizing the project
+    - Code review, best practices
+    - Recap of key concepts learned
